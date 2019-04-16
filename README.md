@@ -10,4 +10,5 @@
 * Below is a UI produced by the program.
 
  
+ 
  <img src="image/colorTrap.PNG" width="200" >
