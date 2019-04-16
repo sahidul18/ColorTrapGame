@@ -9,4 +9,5 @@
 
 * Below is a UI produced by the program.
 
- ![](image/colorTrap.PNG)
+ 
+ <img src="image/colorTrap.PNG" width="200" >
